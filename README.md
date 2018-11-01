@@ -16,5 +16,7 @@ There are differences, but it is still programming languages we are talking abou
 
 # Tutorials in Java
 
+[OOP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html) Object Oriented Programming.
+
 [Tutorials point](https://www.tutorialspoint.com/java/index.htm) will help you to understand Java in many ways.
 

@@ -4,7 +4,7 @@ Examples and exercises for learning Java. The material is intended to help you w
 # Introduction
 To get you started with Java, let's write a few lines. Learning by example and doing is conciderably the greatest way to learn new programming languages. 
 
-[Start here](link)
+[Start here](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis-java-exercise/blob/master/Introduction.md)
 
 # From Python to Java
 In this module we assume that you have written Python and you have decided to learn Java.
